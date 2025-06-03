@@ -12,8 +12,6 @@ Dependências:
 
 MySQL Connector/J (JDBC driver)
 
-JavaMail API (para notificações por e-mail)
-
 IDE: NetBeans (recomendado) ou outra compatível
 
 Sistema Operacional: Windows, Linux ou macOS
@@ -39,23 +37,13 @@ Execute MainFrame.java como ponto de entrada.
 Uso
 
 
-
-
-
 Tela Principal:
-
-
-
 
 
 Acesse as funcionalidades: Cadastro de Clientes, Cadastro de Veículos, Entrada/Saída, Relatórios.
 
 
-
 Cadastro de Clientes:
-
-
-
 
 
 Insira nome, CPF e e-mail.
